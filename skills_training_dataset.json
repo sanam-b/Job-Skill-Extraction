@@ -1,0 +1,1007 @@
+[
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Frontend Engineer position @ our company!  You'd work with React, TypeScript & GraphQL. Can't miss it! Exp. required: 3 years minimum. Benefits: health insurance, 401(k) match, unlimited PTO $$$",
+    "output": "[\"graphql\", \"react\", \"typescript\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Frontend Engineer position @ our company!  You'd work with React, TypeScript & GraphQL. Can't miss it! Exp. required: 3 years minimum. Benefits: health insurance, 401(k) match, unlimited PTO $$$",
+    "output": "[\"graphql\", \"react\", \"typescript\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <span>Sr. Data Scientist</span>. You've got expertise in NLP, computer vision & statistical modeling. They're looking 4 someone with 8+ yrs. Comp: 170k-250k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager @ finance startup  ...  You'd build 50+ features/quarter & gather requirements from 10+ stakeholders. Can't handle pressure? Then don't apply! Exp: 2-4 years. Salary: 110k-160k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager needed @ tech company. You'd manage 2-3 product lines & work w/ 15+ engineers. Won't you apply? Required: 3-5 years PM experience. Salary: $130k-$180k !!!",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps/SRE position - monitor <b>production</b> systems handling 1M+ requests/day. You'd implement logging & monitoring solutions. 5+ years necessary. Comp: 150k-220k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Business Analyst position  ...  Won't you help us implement new <span>EMR</span> systems? 10+ teams depend on ur work. You'd need 4-6 yrs in healthcare IT. Comp: 100k-160k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Join us as a Backend Engineer!!!  We need someone who's expert in <span>microservices</span>, REST APIs & Docker.  You shouldn't miss this opportunity.  Experience: 2-4 years, Salary range $100k to $160k.",
+    "output": "[\"docker\", \"microservices\", \"rest apis\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Software Engineer - We're looking for someone who can architect large-scale <b>distributed</b> systems. They'll use Java, Scala & Kafka. Shouldn't overlook this! Years needed: 7-10. Comp: 180k-250k.",
+    "output": "[\"java\", \"scala\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Were  hiring a Full Stack Developer  ...  Must know JavaScript, React & Node.js. That's why we're offering competitive benefits. 5+ years needed. Salary: 150k-200k USD $$$",
+    "output": "[\"javascript\", \"node.js\", \"react\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager needed @ tech company. You'd manage 2-3 product lines & work w/ 15+ engineers. Won't you apply? Required: 3-5 years PM experience. Salary: $130k-$180k !!!",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager @ finance startup  ...  You'd build 50+ features/quarter & gather requirements from 10+ stakeholders. Can't handle pressure? Then don't apply! Exp: 2-4 years. Salary: 110k-160k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring Data Analyst (Healthcare) @ clinic  ...  Analyze 50+ datasets on patient outcomes. That's critical 4 improving care. Required: SQL, R & visualization skills. 2-3 yrs needed. Salary: 70k-110k",
+    "output": "[\"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring Data Analyst (Healthcare) @ clinic  ...  Analyze 50+ datasets on patient outcomes. That's critical 4 improving care. Required: SQL, R & visualization skills. 2-3 yrs needed. Salary: 70k-110k",
+    "output": "[\"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Business Analyst position  ...  Won't you help us implement new <span>EMR</span> systems? 10+ teams depend on ur work. You'd need 4-6 yrs in healthcare IT. Comp: 100k-160k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Frontend Engineer position @ our company!  You'd work with React, TypeScript & GraphQL. Can't miss it! Exp. required: 3 years minimum. Benefits: health insurance, 401(k) match, unlimited PTO $$$",
+    "output": "[\"graphql\", \"react\", \"typescript\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Science role - analyze 1000s of records/day using SQL & visualization tools. Can't do it without strong analytical skills! 4-6 years experience. Salary package: 130k-180k",
+    "output": "[\"data science\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps Engineer wanted  ...  Manage 100+ microservices using Docker & Kubernetes. You'll work w/ AWS & infrastructure-as-code tools. 3-5 yrs required. Salary: $130k-$180k !!!",
+    "output": "[\"aws\", \"docker\", \"kubernetes\", \"microservices\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps/SRE position - monitor <b>production</b> systems handling 1M+ requests/day. You'd implement logging & monitoring solutions. 5+ years necessary. Comp: 150k-220k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring Data Analyst (Healthcare) @ clinic  ...  Analyze 50+ datasets on patient outcomes. That's critical 4 improving care. Required: SQL, R & visualization skills. 2-3 yrs needed. Salary: 70k-110k",
+    "output": "[\"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring Data Analyst (Healthcare) @ clinic  ...  Analyze 50+ datasets on patient outcomes. That's critical 4 improving care. Required: SQL, R & visualization skills. 2-3 yrs needed. Salary: 70k-110k",
+    "output": "[\"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Frontend Engineer position @ our company!  You'd work with React, TypeScript & GraphQL. Can't miss it! Exp. required: 3 years minimum. Benefits: health insurance, 401(k) match, unlimited PTO $$$",
+    "output": "[\"graphql\", \"react\", \"typescript\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Science role - analyze 1000s of records/day using SQL & visualization tools. Can't do it without strong analytical skills! 4-6 years experience. Salary package: 130k-180k",
+    "output": "[\"data science\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Join us as a Backend Engineer!!!  We need someone who's expert in <span>microservices</span>, REST APIs & Docker.  You shouldn't miss this opportunity.  Experience: 2-4 years, Salary range $100k to $160k.",
+    "output": "[\"docker\", \"microservices\", \"rest apis\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Join us as a Backend Engineer!!!  We need someone who's expert in <span>microservices</span>, REST APIs & Docker.  You shouldn't miss this opportunity.  Experience: 2-4 years, Salary range $100k to $160k.",
+    "output": "[\"docker\", \"microservices\", \"rest apis\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <span>Sr. Data Scientist</span>. You've got expertise in NLP, computer vision & statistical modeling. They're looking 4 someone with 8+ yrs. Comp: 170k-250k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring a <b>Product Manager</b>  ...  Lead our mobile app strategy. You shouldn't be unfamiliar with data analytics & user research. 4-6 yrs needed. Pay: 140k-190k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. DevOps role @ cloud company. <span>Infrastructure</span> management & CI/CD expertise required. They're using Terraform, Jenkins & ELK stack. 6-10 yrs needed. Comp: 160k-240k",
+    "output": "[\"ci/cd\", \"jenkins\", \"terraform\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Were  hiring a Full Stack Developer  ...  Must know JavaScript, React & Node.js. That's why we're offering competitive benefits. 5+ years needed. Salary: 150k-200k USD $$$",
+    "output": "[\"javascript\", \"node.js\", \"react\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Software Engineer - We're looking for someone who can architect large-scale <b>distributed</b> systems. They'll use Java, Scala & Kafka. Shouldn't overlook this! Years needed: 7-10. Comp: 180k-250k.",
+    "output": "[\"java\", \"scala\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <span>Sr. Data Scientist</span>. You've got expertise in NLP, computer vision & statistical modeling. They're looking 4 someone with 8+ yrs. Comp: 170k-250k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <span>Sr. Data Scientist</span>. You've got expertise in NLP, computer vision & statistical modeling. They're looking 4 someone with 8+ yrs. Comp: 170k-250k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager needed @ tech company. You'd manage 2-3 product lines & work w/ 15+ engineers. Won't you apply? Required: 3-5 years PM experience. Salary: $130k-$180k !!!",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps Engineer wanted  ...  Manage 100+ microservices using Docker & Kubernetes. You'll work w/ AWS & infrastructure-as-code tools. 3-5 yrs required. Salary: $130k-$180k !!!",
+    "output": "[\"aws\", \"docker\", \"kubernetes\", \"microservices\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps/SRE position - monitor <b>production</b> systems handling 1M+ requests/day. You'd implement logging & monitoring solutions. 5+ years necessary. Comp: 150k-220k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Analyst needed @ hospital system! <b>Clinical</b> data analysis role. That's why we need someone w/ healthcare background & statistical skills. Can't do it without knowledge of HIPAA! Exp: 3-5 years. Pay: 90k-140k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Were  hiring a Full Stack Developer  ...  Must know JavaScript, React & Node.js. That's why we're offering competitive benefits. 5+ years needed. Salary: 150k-200k USD $$$",
+    "output": "[\"javascript\", \"node.js\", \"react\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Frontend Engineer position @ our company!  You'd work with React, TypeScript & GraphQL. Can't miss it! Exp. required: 3 years minimum. Benefits: health insurance, 401(k) match, unlimited PTO $$$",
+    "output": "[\"graphql\", \"react\", \"typescript\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Science role - analyze 1000s of records/day using SQL & visualization tools. Can't do it without strong analytical skills! 4-6 years experience. Salary package: 130k-180k",
+    "output": "[\"data science\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Data Scientist (ML focused)  ...  We're using cutting-edge <b>AI</b> tech. You'll need strong Python, statistics & deep learning skills. 5+ years required.  Compensation: $140k-$200k !!!",
+    "output": "[\"deep learning\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Data Scientist (ML focused)  ...  We're using cutting-edge <b>AI</b> tech. You'll need strong Python, statistics & deep learning skills. 5+ years required.  Compensation: $140k-$200k !!!",
+    "output": "[\"deep learning\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring a <b>Product Manager</b>  ...  Lead our mobile app strategy. You shouldn't be unfamiliar with data analytics & user research. 4-6 yrs needed. Pay: 140k-190k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager @ finance startup  ...  You'd build 50+ features/quarter & gather requirements from 10+ stakeholders. Can't handle pressure? Then don't apply! Exp: 2-4 years. Salary: 110k-160k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Business Analyst position  ...  Won't you help us implement new <span>EMR</span> systems? 10+ teams depend on ur work. You'd need 4-6 yrs in healthcare IT. Comp: 100k-160k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Join us as a Backend Engineer!!!  We need someone who's expert in <span>microservices</span>, REST APIs & Docker.  You shouldn't miss this opportunity.  Experience: 2-4 years, Salary range $100k to $160k.",
+    "output": "[\"docker\", \"microservices\", \"rest apis\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Science role - analyze 1000s of records/day using SQL & visualization tools. Can't do it without strong analytical skills! 4-6 years experience. Salary package: 130k-180k",
+    "output": "[\"data science\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager @ finance startup  ...  You'd build 50+ features/quarter & gather requirements from 10+ stakeholders. Can't handle pressure? Then don't apply! Exp: 2-4 years. Salary: 110k-160k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. DevOps role @ cloud company. <span>Infrastructure</span> management & CI/CD expertise required. They're using Terraform, Jenkins & ELK stack. 6-10 yrs needed. Comp: 160k-240k",
+    "output": "[\"ci/cd\", \"jenkins\", \"terraform\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. DevOps role @ cloud company. <span>Infrastructure</span> management & CI/CD expertise required. They're using Terraform, Jenkins & ELK stack. 6-10 yrs needed. Comp: 160k-240k",
+    "output": "[\"ci/cd\", \"jenkins\", \"terraform\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring Data Analyst (Healthcare) @ clinic  ...  Analyze 50+ datasets on patient outcomes. That's critical 4 improving care. Required: SQL, R & visualization skills. 2-3 yrs needed. Salary: 70k-110k",
+    "output": "[\"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Business Analyst position  ...  Won't you help us implement new <span>EMR</span> systems? 10+ teams depend on ur work. You'd need 4-6 yrs in healthcare IT. Comp: 100k-160k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Software Engineer - We're looking for someone who can architect large-scale <b>distributed</b> systems. They'll use Java, Scala & Kafka. Shouldn't overlook this! Years needed: 7-10. Comp: 180k-250k.",
+    "output": "[\"java\", \"scala\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Were  hiring a Full Stack Developer  ...  Must know JavaScript, React & Node.js. That's why we're offering competitive benefits. 5+ years needed. Salary: 150k-200k USD $$$",
+    "output": "[\"javascript\", \"node.js\", \"react\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Data Scientist (ML focused)  ...  We're using cutting-edge <b>AI</b> tech. You'll need strong Python, statistics & deep learning skills. 5+ years required.  Compensation: $140k-$200k !!!",
+    "output": "[\"deep learning\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Science role - analyze 1000s of records/day using SQL & visualization tools. Can't do it without strong analytical skills! 4-6 years experience. Salary package: 130k-180k",
+    "output": "[\"data science\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring a <b>Product Manager</b>  ...  Lead our mobile app strategy. You shouldn't be unfamiliar with data analytics & user research. 4-6 yrs needed. Pay: 140k-190k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps Engineer wanted  ...  Manage 100+ microservices using Docker & Kubernetes. You'll work w/ AWS & infrastructure-as-code tools. 3-5 yrs required. Salary: $130k-$180k !!!",
+    "output": "[\"aws\", \"docker\", \"kubernetes\", \"microservices\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Analyst needed @ hospital system! <b>Clinical</b> data analysis role. That's why we need someone w/ healthcare background & statistical skills. Can't do it without knowledge of HIPAA! Exp: 3-5 years. Pay: 90k-140k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Business Analyst position  ...  Won't you help us implement new <span>EMR</span> systems? 10+ teams depend on ur work. You'd need 4-6 yrs in healthcare IT. Comp: 100k-160k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Frontend Engineer position @ our company!  You'd work with React, TypeScript & GraphQL. Can't miss it! Exp. required: 3 years minimum. Benefits: health insurance, 401(k) match, unlimited PTO $$$",
+    "output": "[\"graphql\", \"react\", \"typescript\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <span>Sr. Data Scientist</span>. You've got expertise in NLP, computer vision & statistical modeling. They're looking 4 someone with 8+ yrs. Comp: 170k-250k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager @ finance startup  ...  You'd build 50+ features/quarter & gather requirements from 10+ stakeholders. Can't handle pressure? Then don't apply! Exp: 2-4 years. Salary: 110k-160k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. DevOps role @ cloud company. <span>Infrastructure</span> management & CI/CD expertise required. They're using Terraform, Jenkins & ELK stack. 6-10 yrs needed. Comp: 160k-240k",
+    "output": "[\"ci/cd\", \"jenkins\", \"terraform\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring Data Analyst (Healthcare) @ clinic  ...  Analyze 50+ datasets on patient outcomes. That's critical 4 improving care. Required: SQL, R & visualization skills. 2-3 yrs needed. Salary: 70k-110k",
+    "output": "[\"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Software Engineer - We're looking for someone who can architect large-scale <b>distributed</b> systems. They'll use Java, Scala & Kafka. Shouldn't overlook this! Years needed: 7-10. Comp: 180k-250k.",
+    "output": "[\"java\", \"scala\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Seeking Data Scientist @ our <u>Analytics</u> team!  You'll work w/ Python, SQL & machine learning. We've got 50+ datasets ready 4 analysis. 3-5 yrs exp. needed. Salary: $120k-$160k",
+    "output": "[\"machine learning\", \"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Science role - analyze 1000s of records/day using SQL & visualization tools. Can't do it without strong analytical skills! 4-6 years experience. Salary package: 130k-180k",
+    "output": "[\"data science\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager needed @ tech company. You'd manage 2-3 product lines & work w/ 15+ engineers. Won't you apply? Required: 3-5 years PM experience. Salary: $130k-$180k !!!",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Business Analyst position  ...  Won't you help us implement new <span>EMR</span> systems? 10+ teams depend on ur work. You'd need 4-6 yrs in healthcare IT. Comp: 100k-160k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Software Engineer - We're looking for someone who can architect large-scale <b>distributed</b> systems. They'll use Java, Scala & Kafka. Shouldn't overlook this! Years needed: 7-10. Comp: 180k-250k.",
+    "output": "[\"java\", \"scala\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Join us as a Backend Engineer!!!  We need someone who's expert in <span>microservices</span>, REST APIs & Docker.  You shouldn't miss this opportunity.  Experience: 2-4 years, Salary range $100k to $160k.",
+    "output": "[\"docker\", \"microservices\", \"rest apis\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <span>Sr. Data Scientist</span>. You've got expertise in NLP, computer vision & statistical modeling. They're looking 4 someone with 8+ yrs. Comp: 170k-250k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <span>Sr. Data Scientist</span>. You've got expertise in NLP, computer vision & statistical modeling. They're looking 4 someone with 8+ yrs. Comp: 170k-250k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: DevOps Engineer  ...  Won't you join our team of 20+ engineers? You'd manage Kubernetes clusters & design automated workflows. Experience: 2-4 years. Salary: 120k-170k $$$",
+    "output": "[\"kubernetes\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps/SRE position - monitor <b>production</b> systems handling 1M+ requests/day. You'd implement logging & monitoring solutions. 5+ years necessary. Comp: 150k-220k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Analyst needed @ hospital system! <b>Clinical</b> data analysis role. That's why we need someone w/ healthcare background & statistical skills. Can't do it without knowledge of HIPAA! Exp: 3-5 years. Pay: 90k-140k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Frontend Engineer position @ our company!  You'd work with React, TypeScript & GraphQL. Can't miss it! Exp. required: 3 years minimum. Benefits: health insurance, 401(k) match, unlimited PTO $$$",
+    "output": "[\"graphql\", \"react\", \"typescript\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Software Engineer - We're looking for someone who can architect large-scale <b>distributed</b> systems. They'll use Java, Scala & Kafka. Shouldn't overlook this! Years needed: 7-10. Comp: 180k-250k.",
+    "output": "[\"java\", \"scala\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Join us as a Backend Engineer!!!  We need someone who's expert in <span>microservices</span>, REST APIs & Docker.  You shouldn't miss this opportunity.  Experience: 2-4 years, Salary range $100k to $160k.",
+    "output": "[\"docker\", \"microservices\", \"rest apis\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Data Scientist (ML focused)  ...  We're using cutting-edge <b>AI</b> tech. You'll need strong Python, statistics & deep learning skills. 5+ years required.  Compensation: $140k-$200k !!!",
+    "output": "[\"deep learning\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring a <b>Product Manager</b>  ...  Lead our mobile app strategy. You shouldn't be unfamiliar with data analytics & user research. 4-6 yrs needed. Pay: 140k-190k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. DevOps role @ cloud company. <span>Infrastructure</span> management & CI/CD expertise required. They're using Terraform, Jenkins & ELK stack. 6-10 yrs needed. Comp: 160k-240k",
+    "output": "[\"ci/cd\", \"jenkins\", \"terraform\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps Engineer wanted  ...  Manage 100+ microservices using Docker & Kubernetes. You'll work w/ AWS & infrastructure-as-code tools. 3-5 yrs required. Salary: $130k-$180k !!!",
+    "output": "[\"aws\", \"docker\", \"kubernetes\", \"microservices\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps Engineer wanted  ...  Manage 100+ microservices using Docker & Kubernetes. You'll work w/ AWS & infrastructure-as-code tools. 3-5 yrs required. Salary: $130k-$180k !!!",
+    "output": "[\"aws\", \"docker\", \"kubernetes\", \"microservices\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Join us as a Backend Engineer!!!  We need someone who's expert in <span>microservices</span>, REST APIs & Docker.  You shouldn't miss this opportunity.  Experience: 2-4 years, Salary range $100k to $160k.",
+    "output": "[\"docker\", \"microservices\", \"rest apis\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Were  hiring a Full Stack Developer  ...  Must know JavaScript, React & Node.js. That's why we're offering competitive benefits. 5+ years needed. Salary: 150k-200k USD $$$",
+    "output": "[\"javascript\", \"node.js\", \"react\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <span>Sr. Data Scientist</span>. You've got expertise in NLP, computer vision & statistical modeling. They're looking 4 someone with 8+ yrs. Comp: 170k-250k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Data Scientist (ML focused)  ...  We're using cutting-edge <b>AI</b> tech. You'll need strong Python, statistics & deep learning skills. 5+ years required.  Compensation: $140k-$200k !!!",
+    "output": "[\"deep learning\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Data Scientist (ML focused)  ...  We're using cutting-edge <b>AI</b> tech. You'll need strong Python, statistics & deep learning skills. 5+ years required.  Compensation: $140k-$200k !!!",
+    "output": "[\"deep learning\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring a <b>Product Manager</b>  ...  Lead our mobile app strategy. You shouldn't be unfamiliar with data analytics & user research. 4-6 yrs needed. Pay: 140k-190k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. DevOps role @ cloud company. <span>Infrastructure</span> management & CI/CD expertise required. They're using Terraform, Jenkins & ELK stack. 6-10 yrs needed. Comp: 160k-240k",
+    "output": "[\"ci/cd\", \"jenkins\", \"terraform\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps Engineer wanted  ...  Manage 100+ microservices using Docker & Kubernetes. You'll work w/ AWS & infrastructure-as-code tools. 3-5 yrs required. Salary: $130k-$180k !!!",
+    "output": "[\"aws\", \"docker\", \"kubernetes\", \"microservices\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring Data Analyst (Healthcare) @ clinic  ...  Analyze 50+ datasets on patient outcomes. That's critical 4 improving care. Required: SQL, R & visualization skills. 2-3 yrs needed. Salary: 70k-110k",
+    "output": "[\"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Analyst needed @ hospital system! <b>Clinical</b> data analysis role. That's why we need someone w/ healthcare background & statistical skills. Can't do it without knowledge of HIPAA! Exp: 3-5 years. Pay: 90k-140k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Frontend Engineer position @ our company!  You'd work with React, TypeScript & GraphQL. Can't miss it! Exp. required: 3 years minimum. Benefits: health insurance, 401(k) match, unlimited PTO $$$",
+    "output": "[\"graphql\", \"react\", \"typescript\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're looking 4 a talented <b>Software Engineer</b>  to join our team! You'll work on cutting-edge technologies like Python, Java & Go. Won't you consider joining us? Salary: 120k-180k  $$. Required: 3-5 yrs experience.",
+    "output": "[\"go\", \"java\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Software Engineer - We're looking for someone who can architect large-scale <b>distributed</b> systems. They'll use Java, Scala & Kafka. Shouldn't overlook this! Years needed: 7-10. Comp: 180k-250k.",
+    "output": "[\"java\", \"scala\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Data Scientist (ML focused)  ...  We're using cutting-edge <b>AI</b> tech. You'll need strong Python, statistics & deep learning skills. 5+ years required.  Compensation: $140k-$200k !!!",
+    "output": "[\"deep learning\", \"python\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager @ finance startup  ...  You'd build 50+ features/quarter & gather requirements from 10+ stakeholders. Can't handle pressure? Then don't apply! Exp: 2-4 years. Salary: 110k-160k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Hiring: Head of Product - Strategic role managing $5M+ budget. They're looking 4 visionary leaders. Won't settle 4 less than 8+ years experience. Comp: 180k-280k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. DevOps role @ cloud company. <span>Infrastructure</span> management & CI/CD expertise required. They're using Terraform, Jenkins & ELK stack. 6-10 yrs needed. Comp: 160k-240k",
+    "output": "[\"ci/cd\", \"jenkins\", \"terraform\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Healthcare Analyst - <u>Data</u> strategy & reporting. You shouldn't be unfamiliar w/ EHR systems & healthcare regulations. They're looking 4 5+ years exp. Comp: 110k-170k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Business Analyst position  ...  Won't you help us implement new <span>EMR</span> systems? 10+ teams depend on ur work. You'd need 4-6 yrs in healthcare IT. Comp: 100k-160k.",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Software Engineer - We're looking for someone who can architect large-scale <b>distributed</b> systems. They'll use Java, Scala & Kafka. Shouldn't overlook this! Years needed: 7-10. Comp: 180k-250k.",
+    "output": "[\"java\", \"scala\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Join us as a Backend Engineer!!!  We need someone who's expert in <span>microservices</span>, REST APIs & Docker.  You shouldn't miss this opportunity.  Experience: 2-4 years, Salary range $100k to $160k.",
+    "output": "[\"docker\", \"microservices\", \"rest apis\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Scientist position - Analyze <span>big data</span> using TensorFlow & PyTorch. You'd transform raw data into insights. That won't be easy but it's rewarding! Exp: 2-4 years. Pay: 110k-150k",
+    "output": "[\"pytorch\", \"tensorflow\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Data Science role - analyze 1000s of records/day using SQL & visualization tools. Can't do it without strong analytical skills! 4-6 years experience. Salary package: 130k-180k",
+    "output": "[\"data science\", \"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Sr. Product Manager position - manage cross-functional teams (engineers, designers, etc.). That's a critical <span>leadership</span> role. Experience: 6-8 years. Compensation: $160k-$220k $$$",
+    "output": "[\"leadership\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager @ finance startup  ...  You'd build 50+ features/quarter & gather requirements from 10+ stakeholders. Can't handle pressure? Then don't apply! Exp: 2-4 years. Salary: 110k-160k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Product Manager @ finance startup  ...  You'd build 50+ features/quarter & gather requirements from 10+ stakeholders. Can't handle pressure? Then don't apply! Exp: 2-4 years. Salary: 110k-160k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "DevOps Engineer wanted  ...  Manage 100+ microservices using Docker & Kubernetes. You'll work w/ AWS & infrastructure-as-code tools. 3-5 yrs required. Salary: $130k-$180k !!!",
+    "output": "[\"aws\", \"docker\", \"kubernetes\", \"microservices\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're seeking <u>DevOps</u> professional! That's critical 4 our 24/7 operations. You'd monitor 500+ servers & optimize deployment pipelines. Can't do it? Don't apply! 4-7 years exp. Pay: 140k-200k",
+    "output": "[]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "We're hiring Data Analyst (Healthcare) @ clinic  ...  Analyze 50+ datasets on patient outcomes. That's critical 4 improving care. Required: SQL, R & visualization skills. 2-3 yrs needed. Salary: 70k-110k",
+    "output": "[\"sql\"]"
+  },
+  {
+    "instruction": "Extract technical and professional skills mentioned in the job description. Return only a JSON array of skill names.",
+    "input": "Healthcare Data Analyst position  ...  We're analyzing 100000+ patient records. You'd use SQL, Python & <span>Tableau</span> 4 insights. Won't this interest you? 2-4 yrs exp. Salary: $80k-$120k !!!",
+    "output": "[\"python\", \"sql\"]"
+  }
+]
